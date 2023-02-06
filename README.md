@@ -1,2 +1,2 @@
 # brunagafo.gihutb.io
-Meu portfólio no Github! (:
+Perfil no Github! (:
