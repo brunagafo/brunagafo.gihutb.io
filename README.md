@@ -1,4 +1,4 @@
-<h1>Repositório</h1>
+<h1>Repositório 📚</h1> 
 
 Oi! esse é meu repositório online para exercícios de aprendizagem, testes e projetos.
 
@@ -10,3 +10,5 @@ Oi! esse é meu repositório online para exercícios de aprendizagem, testes e p
 
 <h2>Exercícios de aprendizagem</h2>
 - <a href="https://github.com/brunagafo/HTML-CSS" alt="Link para Repositório HTML-CSS" target="_blank">Repositório de Exercícios em HTML e CSS!</a> 
+##
+<h1>Obrigada pela visita! ✨</h1>
