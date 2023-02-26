@@ -10,11 +10,11 @@ Oi! esse é meu repositório online para exercícios de aprendizagem, testes e p
 
 - <a href="https://brunagafo.github.io/HTML-CSS/modulo2/desafios/d10/" alt="Link para Projeto Android" target="_blank">Projeto Android</a>
 
-<p>Primeiro projeto seguindo o "Curso em Video". Feito com o básico de HTML, CSS e responsividade simplificada.
+<p>Primeiro projeto seguindo o "Curso em Video". Feito com o básico de HTML, CSS e responsividade simplificada. </p>
 
 - <a href="https://brunagafo.github.io/HTML-CSS/modulo3/desafios/d12/" alt="Link para Projeto Cordel" target="_blank">Projeto Cordel</a>
 
-<p>Mini-projeto seguindo o "Curso em Video". Feito com o básico de HTML e CSS para criar efeito "Parallax" e adaptar tamanho de texto sem media queries.
+<p>Mini-projeto seguindo o "Curso em Video". Feito com o básico de HTML e CSS para criar efeito "Parallax" e adaptar tamanho de texto sem media queries. </p>
 
 <h2>Exercícios de aprendizagem</h2>
 
