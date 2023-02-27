@@ -6,7 +6,7 @@ Oi! esse é meu repositório online para exercícios de aprendizagem, testes e p
 
 - <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank">Projeto currículo</a>
 
-<p>Esse é meu principal projeto no momento (autoral) com HTML e CSS. Tem dados sobre minha formação, habilidades, projetos futuros, entre outros. Em breve, vai substituir essa página.</p>
+<p>Esse é meu principal projeto no momento (autoral) com HTML e CSS. Tem dados sobre minhas habilidades, perspectivas, projetos, entre outros. Em breve, vai substituir essa página. Faço o uso simultâneo dos recursos aprendidos até o momento para trazer maior complexidade.</p>
 
 - <a href="https://brunagafo.github.io/HTML-CSS/modulo4/desafios/d13/" alt="Link para Projeto Redes Socias" target="_blank">Projeto Redes Socias</a>
 
@@ -14,11 +14,11 @@ Oi! esse é meu repositório online para exercícios de aprendizagem, testes e p
 
 - <a href="https://brunagafo.github.io/HTML-CSS/modulo2/desafios/d10/" alt="Link para Projeto Android" target="_blank">Projeto Android</a>
 
-<p>Primeiro projeto seguindo o "Curso em Video". Feito com o básico de HTML, CSS e responsividade simplificada. </p>
+<p>Primeiro projeto de website seguindo o "Curso em Video". Feito com HTML e CSS e iniciando da geração de responsividade. </p>
 
 - <a href="https://brunagafo.github.io/HTML-CSS/modulo3/desafios/d12/" alt="Link para Projeto Cordel" target="_blank">Projeto Cordel</a>
 
-<p>Mini-projeto seguindo o "Curso em Video". Feito com o básico de HTML e CSS para criar efeito "Parallax" e adaptar tamanho de texto sem media queries. </p>
+<p>Mini-projeto seguindo o "Curso em Video". Feito com HTML e CSS para criar efeito "Parallax" e adaptar tamanho de texto sem media queries. </p>
 
 <h2>Exercícios de aprendizagem</h2>
 
