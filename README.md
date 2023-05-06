@@ -21,21 +21,28 @@
 
 - <a href="https://brunagafo.github.io/HTML-CSS/modulo4/desafios/d13/" alt="Link para Projeto Redes Socias" target="_blank">Projeto Redes Socias/ Social Media Project</a>
 
-<p><b>Projeto seguindo o "Curso em Védeo". Feito com HTML e CSS para desenvolver as utilidades de iframes.</b></p>
+<p><b>Projeto seguindo o "Curso em Vídeo". Feito com HTML e CSS para desenvolver as utilidades de iframes.</b></p>
 <p><i>Project following the "Curso em Vídeo" course. Made with HTML and CSS to develop iframes utilities.</i></p>
+
+#
+
+- <a href="https://brunagafo.github.io/JAVASCRIPT/exercicios/d001/d001.html" alt="Link para Projeto Hora do dia" target="_blank">Projeto Projeto Hora do dia/ Times of day Project</a>
+
+<p><b>Projeto seguindo o "Curso em Vídeo". Feito com HTML, CSS e que utiliza Javascript para identificar a hora do dia e redefinir o design da tela conforme manhã, tarde ou noite.</b></p>
+<p><i>Project following the "Curso em Vídeo" course. Made with HTML, CSS and using Javascript to identify the time of day and redefine the screen design according to morning, afternoon or night.</i></p>
 
 #
 
 - <a href="https://brunagafo.github.io/HTML-CSS/modulo2/desafios/d10/" alt="Link para Projeto Android" target="_blank">Projeto Android/ Android Project</a>
 
-<p><b>Primeiro projeto de website seguindo o "Curso em Video". Feito com HTML e CSS e iniciando da geração de responsividade. </b></p>
+<p><b>Primeiro projeto de website seguindo o "Curso em Vídeo". Feito com HTML e CSS e iniciando da geração de responsividade. </b></p>
 <p><i>First website project following the "Curso em Vídeo" course. Made with HTML and CSS and starting from responsiveness generation. </i></p>
 
 #
 
 - <a href="https://brunagafo.github.io/HTML-CSS/modulo3/desafios/d12/" alt="Link para Projeto Cordel" target="_blank">Projeto Cordel/ Project "Cordel"</a>
 
-<p><b>Mini-projeto seguindo o "Curso em Video". Feito com HTML e CSS para criar efeito "Parallax" e adaptar tamanho de texto sem media queries. </b></p>
+<p><b>Mini-projeto seguindo o "Curso em Vídeo". Feito com HTML e CSS para criar efeito "Parallax" e adaptar tamanho de texto sem media queries. </b></p>
 <p><i>Mini-project following the "Curso em Vídeo" course. Made with HTML and CSS to create "Parallax" effect and adapt text size without media queries.</i></p>
 
 #
