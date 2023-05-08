@@ -7,12 +7,12 @@
 
 - <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank">Projeto currículo/ Curriculum project - 🧱 HTML e CSS</a>
 
-<p><b>Esse é meu principal projeto no momento (autoral) com HTML e CSS. Tem dados sobre minhas habilidades, perspectivas, projetos, entre outros. Em breve, vai substituir essa página. Faço o uso simultâneo dos recursos aprendidos até o momento para trazer maior complexidade.</b></p>
-<p><i>This is my main project at the moment with HTML and CSS. It has data about my skills, perspectives, projects, among others. It will soon replace this page. I make simultaneous use of the resources learned so far to bring greater complexity.</i></p>
+<p><b>Esse é meu principal projeto no momento (autoral) com HTML e CSS. Tem dados sobre minhas habilidades, perspectivas, projetos, entre outros. Faço o uso simultâneo dos recursos aprendidos até o momento para trazer maior complexidade.</b></p>
+<p><i>This is my main project at the moment with HTML and CSS. It has data about my skills, perspectives, projects, among others. I make simultaneous use of the resources learned so far to bring greater complexity.</i></p>
 
 #
 
-- <a href="https://brunagafo.github.io/projeto-pokedex/" alt="Link para Projeto Pokedex" target="_blank">Projeto Jogo Pokedex/ Pokedex Project - 🧱 HTML, CSS e Javascript</a>
+- <a href="https://brunagafo.github.io/projeto-pokedex/" alt="Link para Projeto Pokedex" target="_blank">Projeto Pokedex/ Pokedex Project - 🧱 HTML, CSS e Javascript</a>
 
 <p><b>Projeto desenvolvido com base no "Dev em dobro". Feito com HTML, CSS e Javascript para desenvolver uma pokedex (índice de tipos de pokemons) interativa.</b></p>
 <p><i>Project developed based on "Dev em dobro". Made with HTML, CSS and Javascript to develop an interactive pokedex (index for pokemon types).</i></p>
