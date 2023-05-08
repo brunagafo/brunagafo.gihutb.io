@@ -12,6 +12,13 @@
 
 #
 
+- <a href="https://brunagafo.github.io/projeto-pokedex/" alt="Link para Projeto Pokedex" target="_blank">Projeto Jogo Pokedex/ Pokedex Project - 🧱 HTML, CSS e Javascript</a>
+
+<p><b>Projeto desenvolvido com base no "Dev em dobro". Feito com HTML, CSS e Javascript para desenvolver uma pokedex (índice de tipos de pokemons) interativa.</b></p>
+<p><i>Project developed based on "Dev em dobro". Made with HTML, CSS and Javascript to develop an interactive pokedex (index for pokemon types).</i></p>
+
+#
+
 - <a href="https://brunagafo.github.io/projeto-jogo/" alt="Link para Projeto Jogo" target="_blank">Projeto Jogo Mario bros/ Project Mario bros game - 🧱 HTML, CSS e Javascript</a>
 
 <p><b>Projeto desenvolvido com base no "Manual do dev". Feito com HTML, CSS  e Javascript para desenvolver um jogo simples.</b></p>
