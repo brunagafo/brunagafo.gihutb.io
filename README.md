@@ -5,13 +5,6 @@
 
 <h2>Projetos | Projects </h2>
 
-- <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank">Projeto currículo/ Curriculum project - 🧱 HTML e CSS</a>
-
-<p><b>Esse é meu principal projeto no momento (autoral) com HTML e CSS. Tem dados sobre minhas habilidades, perspectivas, projetos, entre outros. Faço o uso simultâneo dos recursos aprendidos até o momento para trazer maior complexidade.</b></p>
-<p><i>This is my main project at the moment with HTML and CSS. It has data about my skills, perspectives, projects, among others. I make simultaneous use of the resources learned so far to bring greater complexity.</i></p>
-
-#
-
 - <a href="https://brunagafo.github.io/projeto-pokedex/" alt="Link para Projeto Pokedex" target="_blank">Projeto Pokedex/ Pokedex Project - 🧱 HTML, CSS e Javascript</a>
 
 <p><b>Projeto desenvolvido com base no "Dev em dobro". Feito com HTML, CSS e Javascript para criar uma pokedex (índice de tipos de pokemons) interativa.</b></p>
@@ -19,10 +12,10 @@
 
 #
 
-- <a href="https://brunagafo.github.io/projeto-jogo/" alt="Link para Projeto Jogo" target="_blank">Projeto Jogo Mario bros/ Project Mario bros game - 🧱 HTML, CSS e Javascript</a>
+- <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank">Projeto currículo/ Curriculum project - 🧱 HTML e CSS</a>
 
-<p><b>Projeto desenvolvido com base no "Manual do dev". Feito com HTML, CSS  e Javascript para desenvolver um jogo simples.</b></p>
-<p><i>Project based on the "Dev Manual" youtube channel tutorial. Made with HTML, CSS and Javascript to develop a simple game.</i></p>
+<p><b>Projeto autônomo de apresentação sendo desenvolvido com HTML, CSS e responsividade.</b></p>
+<p><i>Autonomous presentation project being developed with HTML, CSS and responsiveness.</i></p>
 
 #
 
@@ -30,6 +23,13 @@
 
 <p><b>Projeto seguindo o "Curso em Vídeo". Feito com HTML e CSS para desenvolver as utilidades de iframes.</b></p>
 <p><i>Project following the "Curso em Vídeo" course. Made with HTML and CSS to develop iframes utilities.</i></p>
+
+#
+
+- <a href="https://brunagafo.github.io/projeto-jogo/" alt="Link para Projeto Jogo" target="_blank">Projeto Jogo Mario bros/ Project Mario bros game - 🧱 HTML, CSS e Javascript</a>
+
+<p><b>Projeto desenvolvido com base no "Manual do dev". Feito com HTML, CSS  e Javascript para desenvolver um jogo simples.</b></p>
+<p><i>Project based on the "Dev Manual" youtube channel tutorial. Made with HTML, CSS and Javascript to develop a simple game.</i></p>
 
 #
 
