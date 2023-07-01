@@ -5,6 +5,13 @@
 
 <h2>Projetos | Projects </h2>
 
+- <a href="https://brunagafo.github.io/projeto-landing-page/" alt="Link para Projeto Landing Page" target="_blank">Projeto Landing Page/ Landing Page Project - 🧱 HTML, CSS e Javascript</a>
+
+<p><b>Landing Page responsiva desenvolvida com HTML e CSS e Javascript.</b></p>
+<p><i>Responsive Landing Page developed with HTML and CSS and Javascript.</i></p>
+
+#
+
 - <a href="https://brunagafo.github.io/projeto-pokedex/" alt="Link para Projeto Pokedex" target="_blank">Projeto Pokedex/ Pokedex Project - 🧱 HTML, CSS e Javascript</a>
 
 <p><b>Projeto desenvolvido com base no "Dev em dobro". Feito com HTML, CSS e Javascript para criar uma pokedex (índice de tipos de pokemons) interativa.</b></p>
